@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sankara-amartya
-- 👀 I’m interested in comptitive coding
+- 👋 Hi, I’m amartya
+- 👀 I’m interested in various development
 - 🌱 I’m currently learning
 
 <!---
